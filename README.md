@@ -32,12 +32,12 @@ It demonstrates form design best practices and usability principles.
 
 ## 🔗 Live Demo
 
-
+https://catherinajercy2007.github.io/navigation-menu/
 ---
 
 ## 📂 Repository
 
-
+https://github.com/catherinajercy2007/navigation-menu
 
 ---
 
